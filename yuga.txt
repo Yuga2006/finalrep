@@ -1,4 +1,5 @@
-<head>
-<hd>yuga</hd>
-tech man 
-<cd></cd>
+<center>
+<h1> YUGA </h1>
+</center>
+<hr>
+
